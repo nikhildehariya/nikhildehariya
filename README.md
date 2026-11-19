@@ -1,7 +1,7 @@
 # Nikhil Dehariya 👋
 **AI/ML Researcher & Systems Builder** • *Bhopal, India*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-dehariya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhildehariya-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhildehariya)
 [![Email](https://img.shields.io/badge/Email-nikhildehariya101%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhildehariya101@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3822--720X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3822-720X)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikhildehariya)
