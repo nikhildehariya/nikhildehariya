@@ -19,7 +19,7 @@ I build at the intersection of **foundation models, biological AI, and real-time
 
 - 🛡️ **Building / Startup — [NetGuard IDS](https://github.com/nikhildehariya/netguard-ids)**  
   *Enterprise IoT Network Detection & Response (NDR) & NIPS.*  
-  - ⚡ **Architecture**: Real-time Scapy packet sniffing + XGBoost ML classification engine, FastAPI backend, GenAI threat mitigation copilot, and React SOC dashboard.
+  - ⚡ **Architecture**: Real-time Scapy packet sniffing + XGBoost ML classification engine, FastAPI backend, GenAI threat mitigation copilot, and SOC monitoring dashboard.
   - 🔨 **Current Stage**: Active iterative development toward deployment-ready security hardware/software appliances.
 
 - 🧪 **AI Robustness & Frontier Evals**
@@ -34,11 +34,11 @@ I build at the intersection of **foundation models, biological AI, and real-time
 ### 🛠️ Core Competencies & Toolchain
 
 ```
-Languages       : Python (Advanced), C++, SQL, JavaScript / TypeScript
+Languages       : Python (Core / Advanced), C++, SQL
 Frameworks/ML   : PyTorch, Hugging Face (Transformers / Diffusers), Scikit-Learn, ESM-2
-Bio / SingleCell: CellRank, Scanpy, scverse, CAFA evaluation metrics
-Systems & Web   : FastAPI, React, TailwindCSS, Docker, Scapy, Linux/POSIX
-Workflow & Evals: Git, GitHub Actions, Weights & Biases, LaTeX, Pytest
+Bio / SingleCell: CellRank, Scanpy, scverse, CAFA evaluation protocols
+Systems & Ops   : FastAPI, Docker, Linux / Shell, Scapy, Git
+Workflow & Evals: Weights & Biases, Pytest, LaTeX, GitHub Actions
 ```
 
 ---
