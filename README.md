@@ -44,11 +44,10 @@ Workflow & Evals: Weights & Biases, Pytest, LaTeX, GitHub Actions
 
 ---
 
-### 📈 GitHub Overview
+### 💻 Primary Tech Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhildehariya&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildehariya&layout=compact&theme=github_dark&hide_border=true&hide=javascript,html,css&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildehariya&layout=compact&theme=github_dark&hide_border=true&hide=javascript,html,css&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Primary Languages" width="380" />
 </div>
 
 ---
